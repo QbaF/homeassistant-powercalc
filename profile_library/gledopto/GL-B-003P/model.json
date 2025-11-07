@@ -9,7 +9,7 @@
     "SLEEP_TIME": 3,
     "VERSION": "v1.17.23:docker"
   },
-  "name": "LED Filament Lamp A60 7W",
+  "name": "Bulb Zigbee 26/E27 7W RGB+CCT",
   "standby_power": 0.12,
   "author": "Jurjen <96632856+Coornh@users.noreply.github.com>"
 }
