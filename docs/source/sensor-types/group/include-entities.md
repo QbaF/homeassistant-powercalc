@@ -100,6 +100,16 @@ powercalc:
         label: bluetooth_proxy
 ```
 
+!!! note
+
+    Filters `area`, `floor`, `group`, `domain` and `label` can be used with multiple values.
+    ```yaml
+      area:
+        - outdoor
+        - kitchen
+
+    
+
 ### Wildcard
 
 Match certain entity id's by a wildcard pattern
